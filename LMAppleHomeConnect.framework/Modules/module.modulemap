@@ -1,0 +1,6 @@
+framework module LMAppleHomeConnect {
+  umbrella header "LMAppleHomeConnect.h"
+  export *
+
+  module * { export * }
+}
